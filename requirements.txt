@@ -6,4 +6,6 @@ torch
 tensorflow
 tf-keras
 pillow
+opencv-python
+numpy
 python-multipart
